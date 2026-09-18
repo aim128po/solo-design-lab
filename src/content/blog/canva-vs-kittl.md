@@ -1,3 +1,9 @@
+---
+title: 'Canva vs Kittl: Which Design Tool Is Right for You?'
+description: 'Compare Canva and Kittl for templates, branding, typography, social media graphics, AI tools, presentations, and more.'
+pubDate: 'Sep 18 2026'
+---
+
 *This site may contain affiliate links. If you purchase through one of these links, Solo Design Lab may earn a commission at no additional cost to you.*
 
 If you've narrowed your search down to Canva and Kittl, you're probably looking for a design tool that makes it easier to create professional-looking visuals without needing advanced design skills.
