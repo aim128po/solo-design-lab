@@ -4,7 +4,7 @@ description: 'Compare seven easy-to-use Canva alternatives for social media grap
 pubDate: 'Sep 18 2026'
 ---
 
-*This site may contain affiliate links.*
+*This site may contain affiliate links. If you purchase through one of these links, Solo Design Lab may earn a commission at no additional cost to you.*
 
 Canva makes graphic design accessible to almost anyone, but it is not the right tool for every project or every workflow.
 
