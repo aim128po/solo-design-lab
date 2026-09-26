@@ -52,7 +52,7 @@ Where this feature seems genuinely useful is in solving the blank-page problem.
 
 Starting a report or infographic from an empty canvas can be one of the slowest parts of the process. Having a reasonable first draft to react to and edit — rather than building everything from scratch — can save time, even if the output still needs a human review before it's ready to share or publish.
 
-[Explore Piktochart](YOUR_AWIN_LINK)
+[Explore Piktochart](https://tidd.ly/4AKrZtg)
 
 ## Templates
 
@@ -155,7 +155,7 @@ For testing whether you like the workflow, interface, and AI-assisted approach, 
 
 If you plan to use Piktochart regularly, check the current plan limits and included features on the official website before deciding whether the free plan will meet your ongoing needs.
 
-[Try Piktochart on the free plan](YOUR_AWIN_LINK)
+[Try Piktochart on the free plan](https://tidd.ly/4AKrZtg)
 
 ## Who May Like Piktochart?
 
